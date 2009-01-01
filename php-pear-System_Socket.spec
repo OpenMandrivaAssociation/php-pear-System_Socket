@@ -8,7 +8,7 @@
 Summary:	%{_pearname} - OO socket API
 Name:		php-pear-%{_pearname}
 Version:	0.4.1
-Release:	%mkrel 8
+Release:	%mkrel 9
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
