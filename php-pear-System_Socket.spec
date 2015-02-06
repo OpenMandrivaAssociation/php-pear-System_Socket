@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.4.1
-Release:	15
+Release:	16
 Summary:	OO socket API
 License:	PHP License
 Group:		Development/PHP
